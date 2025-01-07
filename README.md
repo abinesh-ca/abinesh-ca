@@ -1,7 +1,25 @@
 <h2 align="left">Hi 👋! My name is Abinesh C A</h2>
 
 ###
+# About Me
 
+👋 Hello! I'm Abinesh C A, a passionate web developer dedicated to building dynamic and responsive web applications.
+
+🔭 **Current Focus**: Enhancing user experiences through intuitive design and efficient code.
+
+🌱 **Always Learning**: Continuously improving my skills and exploring new technologies.
+
+🤝 **Open to Collaborations**: Excited to contribute to open-source projects and collaborate with fellow developers.
+
+
+
+
+
+
+
+
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
