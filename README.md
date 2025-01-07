@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Abinesh C A</h2>
 
 ###
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -51,9 +51,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
